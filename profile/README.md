@@ -4,6 +4,6 @@ Liopay giúp mở rộng khả năng của SePay với workflow linh hoạt, tí
 
 ---
 
-Trang web: [https://liopay.vn](https://liopay.vn)
-Tạo QR code: [https://qr.liopay.vn](https://qr.liopay.vn)
-Tài liệu: [https://docs.liopay.vn](https://docs.liopay.vn)
+- Trang web: [https://liopay.vn](https://liopay.vn)
+- Tạo QR code: [https://qr.liopay.vn](https://qr.liopay.vn)
+- Tài liệu: [https://docs.liopay.vn](https://docs.liopay.vn)
